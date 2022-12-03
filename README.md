@@ -5,15 +5,15 @@ _______
 
 اول میریم تو سایت https://discord.com/developers/docs
  ________
-میشیم Application بعد وارد  قسمت
+بعد وارد  قسمت Application میشیم
 ________
-میشویم New Appliciaton و وارد
+ و وارد New Appliciaton میشویم
 _____
 و اسم بات را انتخاب میکنیم
 _________
- را میزنیم Add bot و بعد وارد قسمت ربات میشویم و
+ و بعد وارد قسمت ربات میشویم و Add bot  را میزنیم
 ________
- کلیک میکنیم Reset tokenروی
+ روی Reset token کلیک میکنیم
  _______
 
 <!-- Failed to upload "Screenshot (118).png" -->
@@ -22,12 +22,14 @@ ________
 و توکن را کپی کرده
 ________
 و در  سایت https://dashboard.botghost.com/dashboard/new 
-____________
+
 
 <!-- Failed to upload "Screenshot (120).png" -->
 ______
 
 میرویم
+___
+
 بعد توکنی که از دیسکورد دولپر گرفته بودیم را  در  بخش   توکن بات وارد میکنیم
 ______
 وقتی باتمون انلاین شد
